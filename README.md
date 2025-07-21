@@ -17,3 +17,12 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+## Projects
+- [Netflix Clone](https://reactjsmini.ccbp.tech/login):  A Netflix Clone App developed with user authentication.
+- [NxT Trendz](https://reactjsmini.ccbp.tech/login):  An E-Commerce website created using ReactJS with user authentication. 
+
+## Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/jangitipavani/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pavanijangiti2209@gmail.com)
+
+Feel free to explore my repository 😊!!
